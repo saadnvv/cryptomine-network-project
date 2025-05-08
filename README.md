@@ -26,7 +26,12 @@ The network connects 4 major sites:
 - Protocol deployment (BGP, OSPF)  
 - LAN segmentation and traffic management  
 - Secure remote access implementation  
-- Packet Tracer configuration and troubleshooting  
+- Packet Tracer configuration and troubleshooting
+
+## How to Open the Project
+- Download and install Cisco Packet Tracer 8.2.1 or newer from NetAcad
+- Download the .pkt file from this repository
+- Open it in Packet Tracer to view the full network configuration
 
 ## 📄 Files
 - [`CryptoMine_Network.pkt`](./CryptoMine_Network.pkt): Cisco Packet Tracer project file
