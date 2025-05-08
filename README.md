@@ -29,4 +29,5 @@ The network connects 4 major sites:
 - Packet Tracer configuration and troubleshooting  
 
 ## 📄 Files
-- `CryptoMine_Network.pkt`: Cisco Packet Tracer project file
+- [`CryptoMine_Network.pkt`](./CryptoMine_Network.pkt): Cisco Packet Tracer project file
+
