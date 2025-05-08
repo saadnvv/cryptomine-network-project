@@ -1,2 +1,32 @@
-# cryptomine-network-project
-Enterprise network design using Cisco Packet Tracer
+# CryptoMine International Network Design
+
+## 📁 Project Overview
+This project was completed as part of the **INFR 1421 – Introduction to Networking II** course at Ontario Tech University. The goal was to design and configure a full-scale enterprise WAN for a fictional company, **CryptoMine**, with international branches across North America.
+
+## 🌍 Network Summary
+The network connects 4 major sites:
+- **Chicago HQ** (Core + Distribution + Access switching, VLANs)
+- **Toronto** (Sales)
+- **Vancouver** (Server Farm + DNS)
+- **Mexico** (R&D + Inter-VLAN Routing)
+
+## 🔧 Technologies & Configurations Used
+- **Cisco Packet Tracer 8.2.1**
+- **Routing Protocols:** OSPF (intra-site), BGP (inter-site)
+- **VLANs & Inter-VLAN Routing**
+- **EtherChannel (LACP & PAgP)**
+- **VTP & Trunking**
+- **Remote Access (VPN/SSH setup)**
+- **Serial WAN Links & Subnetting**
+- **End-to-End Connectivity Testing**
+
+## 🛠 Key Skills Demonstrated
+- Enterprise network design and logical topology planning  
+- Layer 2/3 switch configuration  
+- Protocol deployment (BGP, OSPF)  
+- LAN segmentation and traffic management  
+- Secure remote access implementation  
+- Packet Tracer configuration and troubleshooting  
+
+## 📄 Files
+- `CryptoMine_Network.pkt`: Cisco Packet Tracer project file
