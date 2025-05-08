@@ -20,6 +20,14 @@ The network connects 4 major sites:
 - **Serial WAN Links & Subnetting**
 - **End-to-End Connectivity Testing**
 
+## 🛰️ Protocols & Technologies Used
+- **BGP (eBGP)** – for WAN routing between branch sites and Internet
+- **OSPF** – for internal routing within sites
+- **VLANs & Inter-VLAN Routing** – for segmenting the Chicago and Mexico LANs
+- **VTP & Trunking** – for VLAN management and propagation
+- **EtherChannel (LACP, PAgP)** – for switch link aggregation
+- **Remote Access (VPN/SSH)** – for secure access from Ontario Tech Residence
+
 ## 🛠 Key Skills Demonstrated
 - Enterprise network design and logical topology planning  
 - Layer 2/3 switch configuration  
