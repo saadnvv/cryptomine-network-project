@@ -35,3 +35,7 @@ The network connects 4 major sites:
 - LAN segmentation and traffic management  
 - Secure remote access implementation  
 - Packet Tracer configuration and troubleshooting
+
+## Author
+
+Saad Nav | [LinkedIn](https://linkedin.com/in/saadnav) | [GitHub](https://github.com/saadnav38)
